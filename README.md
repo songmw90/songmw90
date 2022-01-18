@@ -1,4 +1,4 @@
-### I LIKE BURIBURI ZAEMON
+### Cyber Nogada Worker
 
 <!--
 **songmw90/songmw90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
